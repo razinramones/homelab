@@ -29,3 +29,12 @@ Wrote bash scripts for futureuse
 -Learn containeraization
 -Practice Infrastructure as code
 Prepare for cloud engineer roles 
+
+
+## Cloud Journey progress (25 Dec 2025)
+- created a new project folder : ~/linux-notes/cloud-journey
+- added index.html for a static websire
+- deployed website using AWS S3 (accessible via s3 website endpoint)
+- Initialized a seperate Git repo for cloud journey
+- connected and pushed cloud-journey repo to GitHub
+- Learned workflow : localfiles - git - GitHub - cloud deployment
